@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Real Estate",
+  "description": "An ultra-luxurious real estate landing page featuring interactive property search, virtual tour showcases, architectural galleries, stats, floor plans, and bespoke concierge scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
